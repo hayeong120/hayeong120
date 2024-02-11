@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3B8F6C&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20my%Github&fontColor=FFFFFF&fontSize=40&fontAlign=72&fontAlignY=40&animation=twinkling&height=180)
 
